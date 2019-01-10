@@ -1,0 +1,107 @@
+*{
+	padding:0px;
+margin:0px;}
+.header{
+	background-color:blue;
+	padding:0px;
+    overflow:hidden;
+}
+.icons
+{
+ padding:1px;
+}
+ #list2{
+float: left;}
+#list1{
+float: right;}
+ul{
+	list-style-type:none;
+	}
+.left{
+background-color:powderblue;
+float:left;
+width:25%;
+height:75.5%;
+font-size:25px;}
+.footer {
+  background-color: black;
+  padding: 25px;
+  text-align: center;
+  color: white;
+}
+.footer h1{
+	text-align:center
+}
+ .right {
+  float: left;
+  padding: 20px;
+  width: 72%;
+  height:69%;
+  overflow-y: scroll;
+  background-color: lightgray;
+  color:black;
+}
+a:hover{
+  background-color: blue;
+  color: white;
+  padding: 14px 25px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border:solid black;
+  width:89.5%;
+}
+h3{
+	margin-top: 60px;
+	margin-bottom: 40px;
+	margin-left: 90px;  
+}
+
+a{
+text-decoration:none;}
+.box1{
+	
+	width:50%;
+	float:left;
+	border:1 px solid black;
+}	
+.box2{
+	
+	width:50%;
+	float:right;
+	border:1 px solid black;
+	
+}	
+.box3{
+	
+	width:40%;
+	float:left;
+	
+	
+}	
+.box4{
+	
+	width:40%;
+	float:right;
+	
+}	
+.box11{
+	padding:60px;
+	border:1 px solid black;
+}
+.box12{
+	padding:60px;
+	border:1 px solid black;
+}
+.box13{
+	padding:60px;
+	border:1px solid black;
+}
+.box14{
+	padding:60px;
+	border:1px solid black;
+}
+.conntent{
+width:100%;}
+h1{
+text-align:center;}
